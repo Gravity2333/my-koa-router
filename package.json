@@ -1,0 +1,16 @@
+{
+  "name": "my-koa-router",
+  "version": "1.0.0",
+  "description": "a sample imple koa-router!",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "types":"./src/index.d.ts",
+  "keywords": [],
+  "author": "liuze0304",
+  "license": "ISC",
+  "dependencies": {
+    "path-to-regexp": "^8.2.0"
+  }
+}
